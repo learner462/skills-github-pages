@@ -1,7 +1,6 @@
 ---
 title: Welcome to my blog!
 
-## h2 title
-### h3 title
+this is some thing to show on page
 
 ---
